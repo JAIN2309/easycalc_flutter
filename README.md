@@ -79,12 +79,6 @@ The calculator implements:
 - Calculation history with copy-to-clipboard functionality
 - Web-optimized layout that maintains phone-like appearance
 
-## Screenshots
-
-| Splash Screen | Calculator (Light) | Calculator (Dark) |
-|--------------|-------------------|-------------------|
-| <img src="screenshots/splash.png" width="200"> | <img src="screenshots/light_mode.png" width="200"> | <img src="screenshots/dark_mode.png" width="200"> |
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
